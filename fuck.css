@@ -1,0 +1,7 @@
+.DanmuEffectDom {
+    display: none;
+}
+
+div[class^=broadcastDiv-] {
+    display: none !important;
+}
