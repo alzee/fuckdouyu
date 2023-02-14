@@ -1,7 +1,10 @@
-.DanmuEffectDom {
-    display: none;
-}
-
-div[class^=broadcastDiv-] {
+.DanmuEffectDom,
+div[class^=broadcastDiv-],
+div[class^=comment-],
+.GuessGameMiniPanelB-wrapper,
+.ScreenBannerAd,
+div#js-player-toolbar,
+#js-room-activity
+{
     display: none !important;
 }
