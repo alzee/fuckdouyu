@@ -12,7 +12,8 @@
   "content_scripts": [
     {
       "matches": ["*://*.douyu.com/*"],
-      "css": ["fuck.css"]
+      "css": ["fuck.css"],
+      "js": ["fuck.js"]
     }
   ]
 }

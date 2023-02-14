@@ -4,6 +4,7 @@ div[class^=comment-],
 .GuessGameMiniPanelB-wrapper,
 .ScreenBannerAd,
 div#js-player-toolbar,
+.layout-Player-aside,
 #js-room-activity
 {
     display: none !important;
